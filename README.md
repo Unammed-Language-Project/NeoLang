@@ -1,2 +1,3 @@
-# NeoLang
-This repository will serve as a temporary guide to the Neo language, until I get around to making a website for it
+## NeoLang
+
+You can use this repository to check out all of Neo's current syntax, until I get around to making a website for it!
